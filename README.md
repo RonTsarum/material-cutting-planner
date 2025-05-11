@@ -21,7 +21,7 @@ A cutting stock optimization system built with React and TypeScript that minimiz
 
 ### 1. Clone the repo
 ```bash
-git clone git@github.com:YOUR_USERNAME/material-cutting-planner.git
+git clone git@github.com:RonTsarum/material-cutting-planner.git
 cd material-cutting-planner
 ```
 
